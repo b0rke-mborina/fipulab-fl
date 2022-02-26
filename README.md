@@ -1,6 +1,4 @@
-# Title / Repository Name
-
-fipulab-fl
+# fipulab-fl
 
 ## About
 
